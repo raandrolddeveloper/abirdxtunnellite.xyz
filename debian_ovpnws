@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='174.138.184.18';
+USER='radevel_dmob';
+PASS='radevel_dmob';
+DBNAME='radevel_dmob';
+PORT_TCP='1194';
+PORT_UDP='53';
+404: Not Found
